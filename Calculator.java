@@ -1,13 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.awtcalculator;
-
-/**
- *
- * @author Almera Perit
- */
 
 import java.awt.*;
 import java.awt.event.*;
