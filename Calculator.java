@@ -7,7 +7,6 @@ public class AwtCalculator extends Frame implements ActionListener {
     private TextField d;
     private String operator;
     private double n1, n2, r;
-    
 
     public AwtCalculator() {
         
